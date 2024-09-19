@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_neset_goktug_gorukoglu\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|c:\\users\\thebe\\desktop\\io_neset_goktug_gorukoglu\\io_neset_goktug_gorukoglu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_neset_goktug_gorukoglu\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_neset_goktug_gorukoglu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_neset_goktug_gorukoglu\\entity\\iddia_bilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\entity\\iddia_bilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_neset_goktug_gorukoglu\\ui\\frmbahis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\ui\\frmbahis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_neset_goktug_gorukoglu\\entity\\bahis_bilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4C116A-1130-4BDD-B3E6-3A479AB43948}|io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu.csproj|solutionrelative:io_neset_goktug_gorukoglu\\entity\\bahis_bilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Form1.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\Form1.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Form1.cs",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\Form1.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAYwKgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:28:14.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Form1.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\Form1.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Form1.cs [Design]",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:26:23.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iddia_Bilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Entity\\Iddia_Bilgileri.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\Entity\\Iddia_Bilgileri.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Entity\\Iddia_Bilgileri.cs",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\Entity\\Iddia_Bilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:56:54.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bahis_Bilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Entity\\Bahis_Bilgileri.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\Entity\\Bahis_Bilgileri.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\Entity\\Bahis_Bilgileri.cs",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\Entity\\Bahis_Bilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:40:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BL.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\BL.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\BL.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\BL.cs",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\BL.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAwIAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:35:34.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DL.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\DL.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\DL.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\DL.cs",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\DL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:23:28.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBahis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\UI\\frmBahis.cs",
+              "RelativeDocumentMoniker": "io_Neset_Goktug_Gorukoglu\\UI\\frmBahis.cs",
+              "ToolTip": "C:\\Users\\thebe\\Desktop\\io_Neset_Goktug_Gorukoglu\\io_Neset_Goktug_Gorukoglu\\UI\\frmBahis.cs [Design]",
+              "RelativeToolTip": "io_Neset_Goktug_Gorukoglu\\UI\\frmBahis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:31:02.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
